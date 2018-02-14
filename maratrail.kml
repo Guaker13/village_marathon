@@ -20,7 +20,7 @@
         
                 <Style id="yellow">
             <LineStyle>
-            <color>ffeb3b</color>
+            <color>5014F0F0</color>
             <width>4</width>
             </LineStyle>
         </Style>
