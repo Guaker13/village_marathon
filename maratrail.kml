@@ -18,9 +18,9 @@
         <visibility>1</visibility>
         <open>1</open>
         
-                <Style id="red">
+                <Style id="yellow">
             <LineStyle>
-            <color>C81400FF</color>
+            <color>ffeb3b</color>
             <width>4</width>
             </LineStyle>
         </Style>
@@ -150,7 +150,7 @@
                 <Placemark>
                     <visibility>0</visibility>            
                     <open>0</open> 
-                    <styleUrl>#red</styleUrl>
+                    <styleUrl>#yellow</styleUrl>
                     <name>MaraTrail</name>
                     <description>Track no. 1</description>
                     <LineString>
