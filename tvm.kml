@@ -15,6 +15,12 @@
             <width>4</width>
             </LineStyle>
         </Style>
+                <Style id="yellow">
+            <LineStyle>
+            <color>ff3fafd1</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>         
         <Style id="route_red">
             <LineStyle>
             <color>961400FF</color>
@@ -141,7 +147,7 @@
                 <Placemark>
                     <visibility>0</visibility>            
                     <open>0</open> 
-                    <styleUrl>#red</styleUrl>
+                    <styleUrl>#yellow</styleUrl>
                     <name>Move</name>
                     <description>Track no. 1</description>
                     <LineString>
