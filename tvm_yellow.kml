@@ -15,11 +15,12 @@
             <width>4</width>
             </LineStyle>
         </Style>
-               <Style id="yellow">
+          <Style id="yellow">
             <LineStyle>
-            <color>ff3fafd1</color>
+            <color>FF3FAFD1</color>
             <width>4</width>
             </LineStyle>
+        </Style>
         <Style id="route_red">
             <LineStyle>
             <color>961400FF</color>
