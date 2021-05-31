@@ -15,7 +15,7 @@
             <width>4</width>
             </LineStyle>
         </Style>
-          <Style id="corail">
+          <Style id="opale">
             <LineStyle>
             <color>FF746CFF</color>
             <width>4</width>
@@ -147,7 +147,7 @@
                 <Placemark>
                     <visibility>0</visibility>
                     <open>0</open>
-                    <styleUrl>#corail</styleUrl>
+                    <styleUrl>#opale</styleUrl>
                     <name>Move</name>
                     <description>Total: 42.2km
  - Track no. 1</description>
